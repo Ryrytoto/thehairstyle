@@ -102,8 +102,8 @@
     line-height: 50px;
     background-image: url("./images/bg.png");
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: fill;
+    background-position: center center;
+    background-size: cover;
     backdrop-filter: brightness(50%);
 }
 
